@@ -16,6 +16,8 @@ COPA AMERICA
 </script>
 </head>
 
++========
+
 ################################################################################################################
 HBO GO ASIA VOD
 ################################################################################################################
@@ -9254,9 +9256,33 @@ https://stream.hownetwork.xyz/xxx/parasite-gisaengchung-2019-bluray/11/480.m3u8
 ########################
 https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod
 
+https://github.com/layarkaca21/lk21-apk/releases/tag/Latest
+APK LK-21
+https://objects.githubusercontent.com/github-production-release-asset-2e65be/756506742/47ceeb8f-7c7b-4ecc-8cec-499d3bc9ba45?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241011%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241011T235547Z&X-Amz-Expires=300&X-Amz-Signature=71800cd579f863e76a4c046dbd22b8c8b8b871e1e60e8dffab709e8c4d6de2c6&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DLk21-Mobile-Android-App.apk&response-content-type=application%2Fvnd.android.package-archive
 //========================================================================
 //menampilkan playlist >>> VOD MOVIES 2024
 //========================================================================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/10/film-beetlejuice-beetlejuice-2024-lk21-d21.jpg.webp",Beetlejuice Beetlejuice 2024
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Oct/09/Beetlejuice.Beetlejuice.2024.mp4/tracks-v1a1/mono.m3u8
+https://stream.hownetwork.xyz/xxx/beetlejuice-beetlejuice-2024-webdl_X_e6d77e43/26/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/10/film-finding-love-in-saint-lucia-2024-lk21-d21.jpg.webp",Finding Love in Saint Lucia 2024
+https://stream.hownetwork.xyz/xxx/finding-love-in-saint-lucia-2024-webdl_X_a8d63a14/26/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/10/film-the-goat-life-2024-lk21-d21.jpg.webp",The Goat Life 2024
+https://stream.hownetwork.xyz/xxx/the-goat-life-2024-webdl_X_de1c76cd/26/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/10/film-the-absence-of-eden-2024-lk21-d21.jpg.webp",The Absence of Eden 2024
+https://stream.hownetwork.xyz/xxx/the-absence-of-eden-2024-webdl_X_b49d2c76/26/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2024" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/10/film-dying-to-be-famous-2024-lk21-d21.jpg.webp",Dying to Be Famous 2024
+https://stream.hownetwork.xyz/xxx/dying-to-be-famous-2024-webdl_X_4f838a10/26/480.m3u8
 
 #EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAKKOrpyUnmAIIZ1TAYXkAKfp7yRu4_ssr5Sf0J-f36b6TJN_UutqSruN-OUmmpfVEF2kqZAFoE0NFovz3iRMz5QcS2LSON5zir0AWqjrNWgNpT1eDinHvxwkmR62BperpQeUFCKrywV0D_mCesRGZjkvyDvPiVJbe-RvE8RafJnbvWbPt8FRbNu_QSFk/s320/movie%20nigt.png",VOD MOVIES 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
