@@ -1,0 +1,8 @@
+
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+https://bf.shandongjncz.com/live/sd-24-4967912.m3u8?txSecret=0c17cf7687e3b585aae13ef49917e062&txTime=6912c1fe
